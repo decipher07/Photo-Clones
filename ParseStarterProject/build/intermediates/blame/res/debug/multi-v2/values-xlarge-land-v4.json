@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-land-v4/values-xlarge-land-v4.xml",
+            "map": [
+                {
+                    "source": "/home/nopc/.gradle/caches/transforms-2/files-2.1/942b299217cdf380da8745c6c08d1a37/appcompat-v7-23.4.0/res/values-xlarge-land-v4/values-xlarge-land-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "63",
+                        "endOffsets": "114"
+                    }
+                }
+            ]
+        }
+    ]
+}
