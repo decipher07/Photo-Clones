@@ -130,6 +130,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     super.onCreate(savedInstanceState);
     setContentView(R.layout.activity_main);
 
+    setTitle("Photo Clone");
+
     signUpButton = (Button) findViewById(R.id.signUpButton);
     usernameEditText = (EditText) findViewById(R.id.usernameEditText);
     passwordEditText = (EditText) findViewById(R.id.passwordEditText);
