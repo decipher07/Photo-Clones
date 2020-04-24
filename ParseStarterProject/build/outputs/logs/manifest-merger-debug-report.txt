@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-28:12
+ADDED from /home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-29:12
 MERGED from [com.google.android.gms:play-services:9.4.0] /home/nopc/.gradle/caches/transforms-2/files-2.1/9fdfd89a2bfbbc537e2eaac1b425cced/play-services-9.4.0/AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] /home/nopc/.gradle/caches/transforms-2/files-2.1/34d08cfae750c7a0b3b7db8624429441/play-services-cast-framework-9.4.0/AndroidManifest.xml:2:1-10:12
 MERGED from [com.google.android.gms:play-services-cast:9.4.0] /home/nopc/.gradle/caches/transforms-2/files-2.1/4e9aa10a609a28313a47e999503668d9/play-services-cast-9.4.0/AndroidManifest.xml:16:1-20:12
@@ -60,25 +60,25 @@ MERGED from [com.google.android.gms:play-services-gass:9.4.0] /home/nopc/.gradle
 MERGED from [com.google.android.gms:play-services-tasks:9.4.0] /home/nopc/.gradle/caches/transforms-2/files-2.1/d18c318cc29107eb961769f21a458643/play-services-tasks-9.4.0/AndroidManifest.xml:2:1-6:12
 MERGED from [com.google.android.gms:play-services-basement:9.4.0] /home/nopc/.gradle/caches/transforms-2/files-2.1/e5d19e03f12f928277b78d60ece1dda2/play-services-basement-9.4.0/AndroidManifest.xml:16:1-26:12
 MERGED from [com.android.support:support-v4:23.4.0] /home/nopc/.gradle/caches/transforms-2/files-2.1/025f0c2a29dd3b2d9932a95cc4e6bea2/support-v4-23.4.0/AndroidManifest.xml:17:1-24:12
-INJECTED from /home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-28:12
-INJECTED from /home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-29:12
 	package
 		ADDED from /home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:3:5-32
 		INJECTED from /home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
 		INJECTED from /home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
-		ADDED from /home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-28:12
+		ADDED from /home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-29:12
 		INJECTED from /home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
-		ADDED from /home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-28:12
+		ADDED from /home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:1-29:12
 		INJECTED from /home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:5:5-21:19
+ADDED from /home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:5:5-22:19
 MERGED from [com.google.android.gms:play-services:9.4.0] /home/nopc/.gradle/caches/transforms-2/files-2.1/9fdfd89a2bfbbc537e2eaac1b425cced/play-services-9.4.0/AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services:9.4.0] /home/nopc/.gradle/caches/transforms-2/files-2.1/9fdfd89a2bfbbc537e2eaac1b425cced/play-services-9.4.0/AndroidManifest.xml:5:5-20
 MERGED from [com.google.android.gms:play-services-cast-framework:9.4.0] /home/nopc/.gradle/caches/transforms-2/files-2.1/34d08cfae750c7a0b3b7db8624429441/play-services-cast-framework-9.4.0/AndroidManifest.xml:5:5-9:19
@@ -181,48 +181,30 @@ MERGED from [com.android.support:support-v4:23.4.0] /home/nopc/.gradle/caches/tr
 		ADDED from /home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:10:9-40
 	android:name
 		ADDED from /home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:6:9-43
-activity#com.parse.starter.UserListActivity
+activity#com.parse.starter.UserFeedActivity
 ADDED from /home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:11:9-63
 	android:name
 		ADDED from /home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:11:19-51
+activity#com.parse.starter.UserListActivity
+ADDED from /home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:12:9-54
+	android:name
+		ADDED from /home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:12:19-51
 activity#com.parse.starter.MainActivity
-ADDED from /home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:12:9-20:20
+ADDED from /home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:13:9-21:20
 	android:label
-		ADDED from /home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:14:13-45
+		ADDED from /home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:15:13-45
 	android:name
-		ADDED from /home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:13:13-41
+		ADDED from /home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:14:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:15:13-19:29
+ADDED from /home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:16:13-20:29
 action#android.intent.action.MAIN
-ADDED from /home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:16:17-69
+ADDED from /home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:17:17-69
 	android:name
-		ADDED from /home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:16:25-66
+		ADDED from /home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:17:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:18:17-77
+ADDED from /home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:19:17-77
 	android:name
-		ADDED from /home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:18:27-74
-uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:22:5-79
-MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /home/nopc/.gradle/caches/transforms-2/files-2.1/d61be9ef71cd9f4aa810831c39215afb/play-services-ads-lite-9.4.0/AndroidManifest.xml:21:5-78
-MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /home/nopc/.gradle/caches/transforms-2/files-2.1/d61be9ef71cd9f4aa810831c39215afb/play-services-ads-lite-9.4.0/AndroidManifest.xml:21:5-78
-MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /home/nopc/.gradle/caches/transforms-2/files-2.1/e48deac817a8c4c533030adfe36a402f/play-services-analytics-9.4.0/AndroidManifest.xml:22:5-79
-MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /home/nopc/.gradle/caches/transforms-2/files-2.1/e48deac817a8c4c533030adfe36a402f/play-services-analytics-9.4.0/AndroidManifest.xml:22:5-79
-MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /home/nopc/.gradle/caches/transforms-2/files-2.1/d074d43940458a5b7d04ae2fcc5269a0/play-services-analytics-impl-9.4.0/AndroidManifest.xml:22:5-79
-MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /home/nopc/.gradle/caches/transforms-2/files-2.1/d074d43940458a5b7d04ae2fcc5269a0/play-services-analytics-impl-9.4.0/AndroidManifest.xml:22:5-79
-MERGED from [com.google.android.gms:play-services-maps:9.4.0] /home/nopc/.gradle/caches/transforms-2/files-2.1/e29d6ed921c415ed625cd3ebeba6ba73/play-services-maps-9.4.0/AndroidManifest.xml:20:5-78
-MERGED from [com.google.android.gms:play-services-maps:9.4.0] /home/nopc/.gradle/caches/transforms-2/files-2.1/e29d6ed921c415ed625cd3ebeba6ba73/play-services-maps-9.4.0/AndroidManifest.xml:20:5-78
-MERGED from [com.google.android.gms:play-services-nearby:9.4.0] /home/nopc/.gradle/caches/transforms-2/files-2.1/a7f0b8dd6e79552c55d3d0bdcfdf37b4/play-services-nearby-9.4.0/AndroidManifest.xml:5:5-79
-MERGED from [com.google.android.gms:play-services-nearby:9.4.0] /home/nopc/.gradle/caches/transforms-2/files-2.1/a7f0b8dd6e79552c55d3d0bdcfdf37b4/play-services-nearby-9.4.0/AndroidManifest.xml:5:5-79
-MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /home/nopc/.gradle/caches/transforms-2/files-2.1/83434e2dcb2d1c5ebd30194de746dd7c/play-services-tagmanager-api-9.4.0/AndroidManifest.xml:22:5-79
-MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /home/nopc/.gradle/caches/transforms-2/files-2.1/83434e2dcb2d1c5ebd30194de746dd7c/play-services-tagmanager-api-9.4.0/AndroidManifest.xml:22:5-79
-MERGED from [com.google.firebase:firebase-analytics:9.4.0] /home/nopc/.gradle/caches/transforms-2/files-2.1/29785967c1af936789114375bcb95cb3/firebase-analytics-9.4.0/AndroidManifest.xml:22:5-79
-MERGED from [com.google.firebase:firebase-analytics:9.4.0] /home/nopc/.gradle/caches/transforms-2/files-2.1/29785967c1af936789114375bcb95cb3/firebase-analytics-9.4.0/AndroidManifest.xml:22:5-79
-MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /home/nopc/.gradle/caches/transforms-2/files-2.1/6cc6af1c18ea83f778cf44246dccdc69/firebase-analytics-impl-9.4.0/AndroidManifest.xml:22:5-79
-MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /home/nopc/.gradle/caches/transforms-2/files-2.1/6cc6af1c18ea83f778cf44246dccdc69/firebase-analytics-impl-9.4.0/AndroidManifest.xml:22:5-79
-MERGED from [com.google.firebase:firebase-iid:9.4.0] /home/nopc/.gradle/caches/transforms-2/files-2.1/1585db40f6d9486dc63f43d828a4b926/firebase-iid-9.4.0/AndroidManifest.xml:20:5-79
-MERGED from [com.google.firebase:firebase-iid:9.4.0] /home/nopc/.gradle/caches/transforms-2/files-2.1/1585db40f6d9486dc63f43d828a4b926/firebase-iid-9.4.0/AndroidManifest.xml:20:5-79
-	android:name
-		ADDED from /home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:22:22-76
+		ADDED from /home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:19:27-74
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
 ADDED from /home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:23:5-80
 	android:name
@@ -232,7 +214,7 @@ ADDED from /home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/Par
 	android:name
 		ADDED from /home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:24:22-76
 uses-permission#android.permission.INTERNET
-ADDED from /home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:26:5-67
+ADDED from /home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:25:5-67
 MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /home/nopc/.gradle/caches/transforms-2/files-2.1/d61be9ef71cd9f4aa810831c39215afb/play-services-ads-lite-9.4.0/AndroidManifest.xml:20:5-66
 MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /home/nopc/.gradle/caches/transforms-2/files-2.1/d61be9ef71cd9f4aa810831c39215afb/play-services-ads-lite-9.4.0/AndroidManifest.xml:20:5-66
 MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /home/nopc/.gradle/caches/transforms-2/files-2.1/e48deac817a8c4c533030adfe36a402f/play-services-analytics-9.4.0/AndroidManifest.xml:21:5-67
@@ -258,7 +240,29 @@ MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /home/nopc/.grad
 MERGED from [com.google.firebase:firebase-iid:9.4.0] /home/nopc/.gradle/caches/transforms-2/files-2.1/1585db40f6d9486dc63f43d828a4b926/firebase-iid-9.4.0/AndroidManifest.xml:21:5-67
 MERGED from [com.google.firebase:firebase-iid:9.4.0] /home/nopc/.gradle/caches/transforms-2/files-2.1/1585db40f6d9486dc63f43d828a4b926/firebase-iid-9.4.0/AndroidManifest.xml:21:5-67
 	android:name
-		ADDED from /home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:26:22-64
+		ADDED from /home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:25:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /home/nopc/.gradle/caches/transforms-2/files-2.1/d61be9ef71cd9f4aa810831c39215afb/play-services-ads-lite-9.4.0/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:9.4.0] /home/nopc/.gradle/caches/transforms-2/files-2.1/d61be9ef71cd9f4aa810831c39215afb/play-services-ads-lite-9.4.0/AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /home/nopc/.gradle/caches/transforms-2/files-2.1/e48deac817a8c4c533030adfe36a402f/play-services-analytics-9.4.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-analytics:9.4.0] /home/nopc/.gradle/caches/transforms-2/files-2.1/e48deac817a8c4c533030adfe36a402f/play-services-analytics-9.4.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /home/nopc/.gradle/caches/transforms-2/files-2.1/d074d43940458a5b7d04ae2fcc5269a0/play-services-analytics-impl-9.4.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:9.4.0] /home/nopc/.gradle/caches/transforms-2/files-2.1/d074d43940458a5b7d04ae2fcc5269a0/play-services-analytics-impl-9.4.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /home/nopc/.gradle/caches/transforms-2/files-2.1/e29d6ed921c415ed625cd3ebeba6ba73/play-services-maps-9.4.0/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-maps:9.4.0] /home/nopc/.gradle/caches/transforms-2/files-2.1/e29d6ed921c415ed625cd3ebeba6ba73/play-services-maps-9.4.0/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-nearby:9.4.0] /home/nopc/.gradle/caches/transforms-2/files-2.1/a7f0b8dd6e79552c55d3d0bdcfdf37b4/play-services-nearby-9.4.0/AndroidManifest.xml:5:5-79
+MERGED from [com.google.android.gms:play-services-nearby:9.4.0] /home/nopc/.gradle/caches/transforms-2/files-2.1/a7f0b8dd6e79552c55d3d0bdcfdf37b4/play-services-nearby-9.4.0/AndroidManifest.xml:5:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /home/nopc/.gradle/caches/transforms-2/files-2.1/83434e2dcb2d1c5ebd30194de746dd7c/play-services-tagmanager-api-9.4.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:9.4.0] /home/nopc/.gradle/caches/transforms-2/files-2.1/83434e2dcb2d1c5ebd30194de746dd7c/play-services-tagmanager-api-9.4.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /home/nopc/.gradle/caches/transforms-2/files-2.1/29785967c1af936789114375bcb95cb3/firebase-analytics-9.4.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics:9.4.0] /home/nopc/.gradle/caches/transforms-2/files-2.1/29785967c1af936789114375bcb95cb3/firebase-analytics-9.4.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /home/nopc/.gradle/caches/transforms-2/files-2.1/6cc6af1c18ea83f778cf44246dccdc69/firebase-analytics-impl-9.4.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.4.0] /home/nopc/.gradle/caches/transforms-2/files-2.1/6cc6af1c18ea83f778cf44246dccdc69/firebase-analytics-impl-9.4.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /home/nopc/.gradle/caches/transforms-2/files-2.1/1585db40f6d9486dc63f43d828a4b926/firebase-iid-9.4.0/AndroidManifest.xml:20:5-79
+MERGED from [com.google.firebase:firebase-iid:9.4.0] /home/nopc/.gradle/caches/transforms-2/files-2.1/1585db40f6d9486dc63f43d828a4b926/firebase-iid-9.4.0/AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from /home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml:27:22-76
 uses-sdk
 INJECTED from /home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/AndroidManifest.xml

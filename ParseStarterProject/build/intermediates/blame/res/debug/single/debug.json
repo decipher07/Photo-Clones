@@ -4,6 +4,10 @@
         "source": "/home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/res/mipmap-mdpi/ic_launcher.png"
     },
     {
+        "merged": "/home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/menu_menu.xml.flat",
+        "source": "/home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/res/menu/menu.xml"
+    },
+    {
         "merged": "/home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/drawable_instagram.png.flat",
         "source": "/home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/res/drawable/instagram.png"
     },
@@ -26,5 +30,9 @@
     {
         "merged": "/home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout_activity_user_list.xml.flat",
         "source": "/home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/res/layout/activity_user_list.xml"
+    },
+    {
+        "merged": "/home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/build/intermediates/res/merged/debug/layout_activity_user_feed.xml.flat",
+        "source": "/home/nopc/Desktop/Temporary/Android/Parse-Server-Starter-Project/ParseStarterProject/src/main/res/layout/activity_user_feed.xml"
     }
 ]
